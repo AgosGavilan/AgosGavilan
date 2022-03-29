@@ -20,12 +20,14 @@
    
    <h2 align="left">👨🏻‍💻 About Me:</h2>
    
-   - 💻 Actualmente soy estudiante del bootcamp de SoyHenry
+   - 📚 Actualmente soy estudiante del bootcamp de SoyHenry
    - 🌱 Estoy aprendiendo Typescript de forma autodidacta
-   - 👩‍💻 Trabajo actualmente como frontend developer en un e-commerce que forma parte del proyecto final del bootcamp
+   - 🛒 Trabajo actualmente como frontend developer en un e-commerce que forma parte del proyecto final del bootcamp
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">💌 Let's get connected:</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/agostina-gavilan-283a03209/)
+### 👩‍💻 [LinkedIn](https://www.linkedin.com/in/agostina-gavilan-283a03209/)
+
+### 📩 [E-Mail](mailto:agosgavilan3@gmail.com)
 
 Puedes preguntarme lo que sea. Deseo absorber conocimientos🧠,ganar experiencias 🏭, colaborar🤝 y construir productos asombrosos 🏭para el mundo🌍!
