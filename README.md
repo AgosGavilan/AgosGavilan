@@ -1,6 +1,6 @@
 <h2 align="left">
  <abc>
-  <br>Holaaa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><br>
+  <br>🍓Holaaa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"><br>
   <br> Soy Agostina, Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
   <br>
    <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv" alt="Coder GIF" width="500">
@@ -25,6 +25,7 @@
    - 👩‍💻 Trabajo actualmente como frontend developer en un e-commerce que forma parte del proyecto final del bootcamp
 
 <h2 align="left">:heart: Let's get connected:</h2>
+
 - [LinkedIn](https://www.linkedin.com/in/agostina-gavilan-283a03209/)
 
 Puedes preguntarme lo que sea. Deseo absorber conocimientos🧠,ganar experiencias 🏭, colaborar🤝 y construir productos asombrosos 🏭para el mundo🌍!
