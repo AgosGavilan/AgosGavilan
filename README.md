@@ -1,4 +1,4 @@
-<h2 align="left">
+<h2 align="center">
  <abc>
   <br>🍓Holaaa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"><br>
   <br> Soy Agostina, Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
