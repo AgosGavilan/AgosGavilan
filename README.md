@@ -21,9 +21,9 @@
    
    <h2 align="left">👨🏻‍💻 About Me:</h2>
    
-   - 📚 Actualmente soy estudiante del bootcamp de SoyHenry
+   - 📚 Graduada del bootcamp de SoyHenry
    - 🌱 Estoy aprendiendo Typescript de forma autodidacta
-   - 🛒 Trabajo actualmente como frontend developer en un e-commerce que forma parte del proyecto final del bootcamp
+   - 🛒 Me desempeñé como frontend developer en un e-commerce que forma parte del proyecto final del bootcamp
 
 <h2 align="left">💌 Let's get connected:</h2>
 
