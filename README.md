@@ -27,7 +27,8 @@
    
    - 📚 Graduada del bootcamp de SoyHenry como full-stack developer
    - 🎨 Me oriento mas hacia el frontend
-   - 🌱 Estoy aprendiendo Typescript de forma autodidacta
+   - 🌱 Aprendí Typescript de forma autodidacta
+   - 👁‍🗨 Estoy aprendiendo NextJS
    - 🛒 Me desempeñé como frontend developer en un e-commerce que forma parte del proyecto final del bootcamp
    - 📺 En mis tiempos libres me gusta ver anime y leer manga
    - 🤸‍♀️ Disfruto mucho el relizar deportes, en especial jugar voley
