@@ -29,6 +29,7 @@
    - 🎨 Me oriento mas hacia el frontend
    - 🌱 Aprendí Typescript de forma autodidacta
    - 👁‍🗨 Estoy aprendiendo NextJS
+   - 👩‍🎨 Actualmente estoy realizando un curso de diseño UX
    - 🛒 Me desempeñé como frontend developer en un e-commerce que forma parte del proyecto final del bootcamp
    - 📺 En mis tiempos libres me gusta ver anime y leer manga
    - 🤸‍♀️ Disfruto mucho el relizar deportes, en especial jugar voley
