@@ -24,14 +24,7 @@
    </p>
    
    <h2 align="left">👨🏻‍💻 About Me:</h2>
-   
-   - 📚 Graduada del bootcamp de SoyHenry como full-stack developer
-   - 🎨 Me oriento mas hacia el frontend
-   - 🛒 Me desempeñé como frontend developer en un e-commerce que forma parte del proyecto final del bootcamp
-   - 📺 En mis tiempos libres me gusta ver anime y leer manga
-   - 🤸‍♀️ Disfruto mucho el relizar deportes, en especial jugar voley
-   - 🐱 Tengo 2 gatas llamadas Olivia y Nina
-
+  
 <h2 align="left">💌 Let's get connected:</h2>
 
 ### 👩‍💻 [LinkedIn](https://www.linkedin.com/in/agostina-gavilan-283a03209/)
